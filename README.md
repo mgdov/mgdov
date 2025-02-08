@@ -1,4 +1,4 @@
-## Hi there 👋
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VuczFkNWJ0amFzdnE5aGN5ZnZ6c29odGRxcXFma2pzenJ1bWY3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ZSwQNWba4YF2/giphy.gif" />
 
 <!--
 **mgdov/mgdov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
