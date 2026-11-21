@@ -1,78 +1,60 @@
-# 👋 Привет! Я — **Таджибов Умар Эльдерович**
+# Умар Таджибов
 
-**Frontend / Fullstack разработчик** • 19 лет • Каспийск, Россия  
+### Frontend / Fullstack Developer · React · Next.js · TypeScript
 
-💰 Ожидания: **70 000 ₽** на руки
+Разрабатываю коммерческие веб-приложения: пользовательские интерфейсы, административные панели и интеграции с API. Есть опыт самостоятельной реализации frontend и backend — от архитектуры до работающего продукта.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mgdov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadzhibov.umar07@gmail.com)
-[![hh.ru](https://img.shields.io/badge/HeadHunter-FF5C00?style=for-the-badge&logo=hh&logoColor=white)](https://hh.ru/resume/...)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tadzhibov)
+[Резюме на hh.ru](https://makhachkala.hh.ru/resume/a4e2a6d2ff103d4d470039ed1f32484f6a7a39) · [Telegram](https://t.me/mgdov)
 
----
+## Стек
 
-### 🧑‍💻 Обо мне
+| Направление | Технологии |
+| --- | --- |
+| Frontend | TypeScript, JavaScript, React, Next.js, Zustand |
+| Интерфейсы | HTML, CSS / Sass, Tailwind CSS |
+| Данные и интеграции | PostgreSQL, Prisma, REST API |
+| Инструменты | Git, GitHub, ИИ-инструменты разработки |
 
-Я — молодой, но уже боевой разработчик с **1 годом 3 месяцами** реального коммерческого опыта.  
-Делаю **полноценные веб-приложения с нуля** (frontend + backend + админки).  
-Люблю чистый код, красивый UI и когда всё работает стабильно даже после деплоя 😎
+## Избранные проекты
 
----
+### VNK — сайт сети АЗС
 
-### 🛠️ Мой стек
+Коммерческий сайт и система управления контентом. Самостоятельно разработал пользовательский интерфейс, серверную логику, API и административную панель.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwindcss,postgresql,prisma,git,html,css,bootstrap&theme=dark&" height="80" />
-  <br><br>
-  <strong>Zustand • REST API • GitHub</strong>
-</div>
+**Стек:** Next.js, React, PostgreSQL, Prisma.
 
----
+[Сайт проекта](https://vnkazs.ru/)
 
-### 🚀 Проекты (полностью мои)
+### Space VPN — веб-платформа сервиса
 
-| Проект           | Что сделал                                      | Стек                                   | Ссылка                          |
-| ---------------- | ----------------------------------------------- | -------------------------------------- | ------------------------------- |
-| **Сеть АЗС VNK** | Полный сайт + админ-панель (frontend + backend) | Next.js • React • Prisma • PostgreSQL  | [vnkazs.ru](https://vnkazs.ru/) |
-| **VPN-сервис**   | Платформа + админка пользователей и подписок    | Next.js • React • Zustand • PostgreSQL | [vpn-p.ru](https://vpn-p.ru/)   |
+Пользовательский интерфейс и административная панель: управление пользователями и VPN-подключениями, интеграция с серверной инфраструктурой через REST API. Роль — основатель и fullstack-разработчик.
 
----
+**Стек:** TypeScript, React, Next.js, Zustand, PostgreSQL, Prisma.
 
-### 💼 Опыт работы
+[Сайт проекта](https://space-v.tech/) · Проект временно приостановлен.
 
-**Октябрь 2025 — сейчас** **Frontend-разработчик (Fullstack)**  
-**Частное агентство по разработке ПО** (Махачкала)  
-→ Разработка коммерческих веб-приложений «под ключ»
+### Focus — платформа VPN-сервиса
 
-**Октябрь 2025 — Февраль 2026** **Frontend-разработчик**  
-**Focus** (Махачкала)  
-→ VPN-платформа + админ-панель
+Разрабатывал веб-интерфейс, административную панель управления пользователями и подписками, интеграции с API.
 
-**Октябрь 2024 — Январь 2025** **Дизайнер-верстальщик**  
-**IT-PRO** (Санкт-Петербург)  
-→ Корпоративный сайт компании
+**Стек:** TypeScript, React, Next.js, Zustand, PostgreSQL, Prisma.
 
-**Июль 2023 — Ноябрь 2023** **Дизайнер-верстальщик**  
-**Panther Enterprise**  
-→ Корпоративный сайт + адаптив
+[Сайт проекта](https://vpn-p.ru/)
 
----
+### КЭПО — платформа дистанционного обучения
 
-### 🎓 Образование
+Публичный репозиторий интерфейса образовательной платформы: личные кабинеты и учебные сценарии.
 
-**2027** — Дагестанский государственный университет  
-Факультет математики и компьютерных наук (среднее специальное)
+**Стек:** TypeScript, Next.js, React, shadcn/ui.
 
----
+[Посмотреть код](https://github.com/mgdov/KEPO-it_college)
 
-### 🌍 Языки
+## ИИ в разработке
 
-- 🇷🇺 Русский — родной
-- 🇬🇧 Английский — A2 (технический читаю без проблем)
+Использую ИИ-инструменты при разработке программного обеспечения. Создавал собственного ИИ-агента для автоматизации создания серверов и регулирования пользовательской нагрузки в VPN-проекте.
 
----
+## Контакты
 
-### 📬 Давай работать вместе!
+Открыт к предложениям по frontend / fullstack-разработке.
 
-Открыт к новым проектам и предложениям.  
-Пишите в **Telegram** или на почту — отвечу быстро 🔥
+[Telegram — @mgdov](https://t.me/mgdov) · [Резюме](https://makhachkala.hh.ru/resume/a4e2a6d2ff103d4d470039ed1f32484f6a7a39)
